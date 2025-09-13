@@ -1,4 +1,4 @@
-### Hey there! I’m @flasharbai-intern 👋
+### Hey there! I’m @Tyranis01 👋
 **Flashloan & Arbitrage Enthusiast** diving deep into DeFi flow dynamics.
 
 ---
