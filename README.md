@@ -23,9 +23,6 @@
 ###  Looking to Collaborate On
 DeFi infrastructure (flashloan orchestration, arbitrage tooling), dynamic NFTs, lending mechanisms, or anything that pushes Ethereum UX forward.
 
-###  How to Reach Me
-[Connect on Twitter](https://x.com/FlashArbAI) • open to peer chats or project ideas!
-
 ###  Fun Fact
 I once arbitraged tokens across three testnet pairs—just for the thrill of gasless profits. 🕶️
 
